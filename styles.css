@@ -1,0 +1,34 @@
+
+        h1 {
+            color: orange;
+            background-color: slategrey;
+            font-size: 20px;
+            text-decoration: underline;
+            font-family: Arial;
+            text-align: center;
+        }
+        p {
+             color: slategrey;
+             text-align: left;
+             line-height: 30px;
+             letter-spacing: 1px;
+             column-count: 2;
+             column-gap: 60px;
+             
+        }
+
+        ul {
+            /* border-width: 4px;
+            border-style: solid;
+            border-color: springgreen; */
+            /* border: 4px solid springgreen; */
+            border-bottom: 4px dotted springgreen;
+            border-left: 8px dashed red;
+        }
+
+        li {
+            list-style-type: square;
+            /* text-shadow: 2px 2px rgb(180, 171, 171); */
+            text-shadow: 2px 2px #eb1717;
+        }
+ 
